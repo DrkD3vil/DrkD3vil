@@ -17,9 +17,9 @@ Skills: PHP / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrkD3vil)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrkD3vil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkD3vil&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkD3vil&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DrkD3vil)  
 
@@ -27,7 +27,7 @@ Skills: PHP / REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/DrkD3vil)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkD3vil&show_icons=true&theme=radical)
+
 
 
 
