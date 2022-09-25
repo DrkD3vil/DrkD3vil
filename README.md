@@ -27,8 +27,8 @@ Skills: PHP / REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/DrkD3vil)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkD3vil&show_icons=true&theme=radical)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DrkD3vil)  
+
 
 ![Profile views](https://gpvc.arturio.dev/DrkD3vil)  
