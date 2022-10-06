@@ -1,6 +1,6 @@
 # Hey, This is Bijoy 
 #### Web Developer
-![Web Developer](https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/305087295_138924265512906_2905519961540179411_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=4SL3Pw_D0QAAX-MSZP1&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT-ru9scnvtRxRvKy7OaXNU1XGsus5PvmJeXGBaxbPl9aw&oe=633512B5)
+![Web Developer](https://scontent.fcgp2-1.fna.fbcdn.net/v/t39.30808-6/305087295_138924265512906_2905519961540179411_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=JqVYOW2llQwAX_rBOwW&_nc_ht=scontent.fcgp2-1.fna&oh=00_AT8w590xlW0y-HcnX4C9VJVPuFkaebpF8TX3v6bhtAbrAA&oe=6342EA75)
 
 I'm a Front End Web developer who is passionate about making error free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real world problems. I am strategic, goal oriented, and always work with an end goal in mind. Over the past years, created 100s of websites for my clients I pride myself on doing quality work and maintain excellent communication. Most of the time! work with WordPress but some technologies enjoy working with include Reacts, JavaScript as well as PHP
 
