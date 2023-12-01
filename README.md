@@ -1,13 +1,16 @@
-<h1 align="center">Hello, I'm Bijoy Dey 👋</h1>
+<h1 align="center">Greetings! I'm Bijoy Dey 👋</h1>
+
 ![Web Developer](https://live.staticflickr.com/65535/52423771597_186353aec9_c.jpg)
 
-<h3 align="center">Versatile Full Stack Web Developer: Elevating Online Experiences through Expert Website Development, SEO Mastery, and Performance Optimization</h3>
+<h3 align="center">Versatile Full-Stack Web Developer</h3>
+<p align="center">Elevating online experiences through expert website development, SEO mastery, and performance optimization.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drkd3vil&label=Profile%20views&color=0e75b6&style=flat" alt="drkd3vil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkd3vil" alt="drkd3vil" /></a> </p>
 
-- 🔭 I’m currently working on **MERN NATIVE E-COMMERCE WEBSITE**
+- 🔭 Currently immersed in developing the **MERN NATIVE E-COMMERCE WEBSITE**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
