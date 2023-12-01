@@ -1,33 +1,34 @@
-# Hello, I'm Bijoy - A Passionate Web Developer
+<h1 align="center">Hello, I'm Bijoy Dey 👋</h1>
 
 ![Web Developer](https://live.staticflickr.com/65535/52423771597_186353aec9_c.jpg)
 
-I'm a Front-End Web developer dedicated to creating error-free websites with 100% client satisfaction. I have a fervor for continuous learning and enjoy sharing my knowledge with others. Solving real-world problems is my forte. I approach my work strategically, setting goals and ensuring quality with excellent communication.
+<h3 align="center">Versatile Full Stack Web Developer</h3>
+<p align="center">Elevating Online Experiences through Expert Website Development, SEO Mastery, and Performance Optimization</p>
 
-## Skills
-- PHP
-- React
-- JavaScript
-- HTML
-- CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drkd3vil&label=Profile%20views&color=0e75b6&style=flat" alt="drkd3vil" /> </p>
 
-## About Me
-- 🌐 Currently working on YouTube & Freelancing
-- 🌱 Learning Node.js & JavaScript
-- 👯 Open to collaboration on GitHub
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drkd3vil" alt="drkd3vil" /></a> </p>
 
-## Connect with Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/DrkD3vil) [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/profile.php?id=100081860006324) [![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/LsRdRqfTlPQAFi_3EMH4WA)
+- 🔭 I’m currently working on **MERN NATIVE E-COMMERCE WEBSITE**
 
-## Badges
-[![GitHub Archive Program](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)](https://archiveprogram.github.com/) [![GitHub Developer](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)](https://docs.github.com/en/developers) [![GitHub Pro](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)](https://github.com/pricing) [![GitHub Star](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif)](https://stars.github.com/) [![GitHub Sponsor](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif)](https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bijoydey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bijoydey/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100081860006324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081860006324" height="30" width="40" /></a>
+<a href="https://instagram.com/drk_d4vil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/drk_d4vil/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@learnwithdevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithdevil" height="30" width="40" /></a>
+</p>
 
-## GitHub Achievements
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DrkD3vil)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrkD3vil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrkD3vil&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DrkD3vil)
-![GitHub Metrics](https://metrics.lecoq.io/DrkD3vil)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<!-- Your icons here -->
+</p>
 
-## Profile Views
-![Profile Views](https://gpvc.arturio.dev/DrkD3vil)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bijoydey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bijoydey" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkd3vil&show_icons=true&locale=en&layout=compact" alt="drkd3vil" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drkd3vil&show_icons=true&locale=en" alt="drkd3vil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drkd3vil&" alt="drkd3vil" /></p>
